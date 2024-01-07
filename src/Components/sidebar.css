@@ -1,0 +1,12 @@
+.sidebar_parent{
+    position: absolute;
+}
+.Sidebar{
+    
+    width: 20%;
+    height: 100vh;
+    background-color: red;
+
+    
+
+}
